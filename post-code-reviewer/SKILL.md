@@ -1,5 +1,5 @@
 ---
-name: post-plan-code-reviewer
+name: post-code-reviewer
 description: Triggers automatically after you finish implementing a plan or writing code. Reviews the new code for correctness and clarity, then automatically makes any recommended alterations.
 ---
 
